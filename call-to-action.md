@@ -4,5 +4,5 @@
 
 % Til that lands, needs to be done more manually.
 
-<span class="btn btn-primary"> [Join a hackathon](blog/20250129-announcing-geojupyter-hackathons/index.md)
-</span> <span class="btn btn-primary"> [Join the community chat on Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter) </span> <span class="btn btn-secondary">[Sign up for an interview](interviews/sign-up.md)</span>
+{button}`Join a hackathon<blog/20250129-announcing-geojupyter-hackathons/index.md>` {button}`Join the community chat on Zulip<https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter>` {button}`Sign up for an interview<interviews/sign-up.md>`
+% TODO: secondary button

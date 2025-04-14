@@ -1,37 +1,3 @@
-@import url('https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/spacelab/bootstrap.min.css');
-
-/* Remove underline from links that are styled as buttons */
-a.btn {
-  text-decoration: none;
-}
-
-a.btn:hover {
-  text-decoration: none;
-}
-
-
-/* css styles */
-
-.card-title {
-  margin-top: 0px;
-  padding-top: 0px;
-}
-
-.center-quote {
-  margin: 15px;
-  padding: 15px;
-
-  font-style: italic;
-  text-align: center;
-}
-
 .jupyter-orange {
   color: #f37636;
-}
-
-.emoji-decoration-left {
-  font-size: 2rem;
-  line-height: 1;
-  text-align: center;
-  margin-right: 20px;
 }

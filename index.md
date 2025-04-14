@@ -7,34 +7,36 @@ site:
   hide_toc: true
 ---
 
++++ {"kind": "split-image"}
 % FIXME: alignment?? Centering the image seems to be using a different page width as centereing the content below, so the logo and text are misaligned.
 
-:::{image} https://avatars.githubusercontent.com/u/170677547?s=400&u=03648f729acc1a0f82ed15246feb7a77c1fcced7&v=4
+## GeoJupyter
+
+:::{image} https://picsum.photos/id/1015/1024/512/
 :alt: Earth Logo
-:width: 40%
 
 :::
-
-+++ {"kind": "centered"}
-
-:::{image} https://avatars.githubusercontent.com/u/170677547?s=400&u=03648f729acc1a0f82ed15246feb7a77c1fcced7&v=4
-:alt: Earth Logo
-:width: 40%
-
-:::
-
-# GeoJupyter
 
 :::{include} elevator-pitch.md
+:start-at: BEGIN-SUB
+:end-at: END-SUB
 :::
 
++++ { "kind": "centered" }
+
+## What is GeoJupyter?
+
+:::{include} elevator-pitch.md
+:start-at: BEGIN-DESC
+:end-at: END-DESC
+:::
 
 [_Current status: Idea generation & development_](about.md)
-
 
 :::{include} call-to-action.md
 :::
 
++++
 
 :::{note} © 2025 GeoJupyter Contributors.
 
